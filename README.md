@@ -1,2 +1,2 @@
-👋 Hi, I'm Alexander Pavlov,  
+👋 Hi, my name is Alexander Pavlov,  
 Beginner Python developer!
