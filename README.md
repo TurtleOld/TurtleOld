@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexander Pavlov,  
+# 👋 Hi, I'm Alexander Pavlov  
 ### Beginner Python-Developer from Moscow Region
 
 - 🔭 I’m currently working on [hastalavistamoney](https://github.com/TurtleOld/hastalavistamoney)
