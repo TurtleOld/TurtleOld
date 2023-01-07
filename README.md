@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [hastalavistamoney](https://github.com/TurtleOld/hastalavistamoney)
 
-- 🌱 I’m currently learning **in Hexlet**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TurtleOld?tab=projects](https://github.com/TurtleOld?tab=projects)
 
 - 📫 How to reach me **dev@pavlovteam.ru**
