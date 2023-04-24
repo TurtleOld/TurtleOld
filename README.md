@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Alexander Pavlov  
 ### Beginner Python-Developer from Moscow Region
 
-- 🔭 I’m currently working on [hastalavistamoney](https://github.com/TurtleOld/hastalavistamoney)
-
-- 👨‍💻 All of my projects are available at [https://github.com/TurtleOld?tab=projects](https://github.com/TurtleOld?tab=projects)
+- 🔭 The project I'm currently working on [Hasta la Vista, Money!](https://github.com/TurtleOld/hasta-la-vista-money)
 
 - 📫 How to reach me **dev@pavlovteam.ru**
 
