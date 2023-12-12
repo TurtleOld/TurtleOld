@@ -25,5 +25,3 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TurtleOld&show_icons=true)  
