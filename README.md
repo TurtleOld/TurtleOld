@@ -21,3 +21,5 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    
 ![](https://www.codewars.com/users/TurtleOld/badges/large)   
+
+[![wakatime](https://wakatime.com/badge/user/018c5e18-098b-408c-ac80-aa398cd049e6.svg)](https://wakatime.com/@018c5e18-098b-408c-ac80-aa398cd049e6)
