@@ -17,3 +17,5 @@ jobs:
           SHOW_TIME: true
           CODE_LANG: true
           IGNORED_LANGUAGES: YAML JSON TOML
+          TIME_RANGE: "all_time"
+          SHOW_TOTAL: true
