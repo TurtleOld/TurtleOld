@@ -25,4 +25,13 @@
 [![wakatime](https://wakatime.com/badge/user/018c5e18-098b-408c-ac80-aa398cd049e6.svg)](https://wakatime.com/@018c5e18-098b-408c-ac80-aa398cd049e6)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python                     6 hrs 21 mins   █████████████████▒░░░░░░░   69.85 %
+Env File                   35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+YAML                       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Bash                       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+HTML                       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+```
+
 <!--END_SECTION:waka-->
