@@ -20,4 +20,6 @@ jobs:
           LOCALE: "en"
           SHOW_OS: "True"
           SHOW_EDITORS: "True"
+          SHOW_TIME: "True"
+          CODE_LANG: "True"
           IGNORED_LANGUAGES: YAML JSON TOML
