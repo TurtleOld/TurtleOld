@@ -23,3 +23,6 @@
 ![](https://www.codewars.com/users/TurtleOld/badges/large)   
 
 [![wakatime](https://wakatime.com/badge/user/018c5e18-098b-408c-ac80-aa398cd049e6.svg)](https://wakatime.com/@018c5e18-098b-408c-ac80-aa398cd049e6)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
