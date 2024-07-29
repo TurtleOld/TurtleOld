@@ -24,6 +24,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018c5e18-098b-408c-ac80-aa398cd049e6.svg)](https://wakatime.com/@018c5e18-098b-408c-ac80-aa398cd049e6)
 
+![](https://komarev.com/ghpvc/?username=TurtleOld&color=red&style=plastic)
+
 <!--START_SECTION:waka-->
 
 ```true
