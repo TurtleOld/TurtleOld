@@ -29,13 +29,13 @@
 <!--START_SECTION:waka-->
 
 ```true
-Total Time: 383 hrs 59 mins
+Total Time: 386 hrs 28 mins
 
-Python                     295 hrs 56 mins ███████████████████▒░░░░░   77.02 %
-HTML                       38 hrs 12 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-YAML                       8 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JSON                       6 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-TOML                       5 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Python                     295 hrs 56 mins ███████████████████░░░░░░   76.53 %
+HTML                       40 hrs 14 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
+YAML                       8 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JSON                       6 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TOML                       5 hrs 15 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
