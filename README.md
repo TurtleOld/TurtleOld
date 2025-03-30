@@ -33,11 +33,11 @@
 <!--START_SECTION:waka-->
 
 ```true
-Total Time: 481 hrs 52 mins
+Total Time: 483 hrs 48 mins
 
-Python                     341 hrs 33 mins █████████████████▓░░░░░░░   70.85 %
-HTML                       52 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Bash                       7 hrs 6 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Python                     342 hrs 17 mins █████████████████▓░░░░░░░   70.72 %
+HTML                       52 hrs 31 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 %
+Markdown                   7 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
 <!--END_SECTION:waka-->
